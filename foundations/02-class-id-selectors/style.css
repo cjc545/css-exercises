@@ -1,0 +1,16 @@
+.odd.number{
+    background-color: lightpink;
+    font-family: Verdana, 'DejaVu Sans', sans-serif;
+}
+#even-number-two{
+    color: blue;
+    font-size: 36px;
+}
+.odd.number.three{
+    font-size: 24px;
+}
+#even-number-four{
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
